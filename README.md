@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mourya kumar</h1>
-# 💫 About Me:
+<h2# 💫 About Me:>
 👋 Hello there! I'm Mourya Kumar, a passionate B.Tech CSE student at Lovely Professional University. I love diving into the world of coding and have proficiency in Java, Python, C, C++, JavaScript, HTML, SQL, MongoDB, along with skills in Spring, Postman, and Docker. Let's collaborate and build amazing projects together!
 
 
@@ -23,7 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mouryagutha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
