@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mourya kumar</h1>
 <h2># 💫 About Me:</h2>
-👋 Hello there! I'm Mourya Kumar, a passionate B.Tech CSE student at Lovely Professional University. I love diving into the world of coding and have proficiency in Java, Python, C, C++, JavaScript, HTML, SQL, MongoDB, along with skills in Spring, Postman, and Docker. Let's collaborate and build amazing projects together!
+👋 Hello! I'm Mourya Kumar, a B.Tech Computer Science student at Lovely Professional University. I'm passionate about technology and enjoy exploring various aspects of software development. Let's connect and discuss exciting opportunities!
 
 
 ## 🌐 Socials:
