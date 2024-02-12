@@ -1,5 +1,4 @@
 ![Header](https://github.com/mouryagutha/mouryagutha/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Mourya kumar</h1>
 <h2># 💫 About Me:</h2>
 👋 Hello! I'm Mourya Kumar, a B.Tech Computer Science student at Lovely Professional University. I'm passionate about technology and enjoy exploring various aspects of software development. Let's connect and discuss exciting opportunities!
 
