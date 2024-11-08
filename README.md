@@ -5,9 +5,14 @@
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mourya-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mourya-kumar-5344b6251/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kmouryap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kmouryap" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mourya-kumar/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mourya Kumar LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/kmouryap/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mourya Kumar LeetCode" height="30" width="40" />
+  </a>
 </p>
+
 
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/View%20My-Resume-blue?style=for-the-badge)](https://mouryagutha.github.io/resume/)
