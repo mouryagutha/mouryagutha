@@ -10,6 +10,9 @@
   </a>
   <a href="https://leetcode.com/u/kmouryap/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mourya Kumar LeetCode" height="30" width="40" />
+  </a> 
+   <a href="mailto:your-email@example.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Mourya Kumar Email" height="30" width="40" />
   </a>
 </p>
 
